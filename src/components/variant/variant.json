@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_variant_variants",
+  "info": {
+    "displayName": "Variant",
+    "icon": "wave-square"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "weight": {
+      "type": "integer"
+    }
+  }
+}
